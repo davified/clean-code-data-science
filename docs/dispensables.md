@@ -21,7 +21,7 @@ if (employee.flags and HOURLY_FLAG) and (employee.age > 65):
 **Good:**
 
 ```python
-if employee.isEligibleForBenefits():
+if employee.is_eligible_for_benefits():
     # do something
 ```
 
