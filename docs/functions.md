@@ -439,7 +439,7 @@ def create_micro_brewery(name):
     # etc.
 ```
 
-... when you can specify a default argument instead? This also makes ist clear that you are expecting a string as the argument.
+... when you can specify a default argument instead? This also makes it clear that you are expecting a string as the argument.
 
 **Good**:
 
