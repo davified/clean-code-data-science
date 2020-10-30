@@ -235,7 +235,7 @@ split_into_first_and_last_name()
 **Good:**
 
 ```python
-def split_into_first_and_last_name(name: str) -> None:
+def split_into_first_and_last_name(name: str) -> list:
     return name.split()
 
 name = 'Ryan McDermott'
