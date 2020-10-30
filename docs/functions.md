@@ -267,7 +267,7 @@ def multiply_column_by_10(df, column_name):
 
 new = multiply_column_by_10(original, 'values')
 
-original.head() # surprise! original dataframe is mutated and now it has
+original.head() # surprise! original dataframe is mutated and now it has the column
 ```
 
 **Good:**
